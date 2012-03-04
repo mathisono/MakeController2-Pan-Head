@@ -14,7 +14,7 @@
 * JPM 
 */
 #include "config.h"
-//#include "motor.h"
+#include "motor.h"
 #include "webserver.h"
 #include "servo.h"
 #include "io.h"
